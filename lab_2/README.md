@@ -10,5 +10,6 @@
 7. Для захисту дописую функцію, яка перевіряє Час доби. В залежності від часу доби PM/AM відображає Доброго дня/Доброї ночі.Дописую тест для перевірки виконання функції. ![alt text](https://github.com/yuriybobyk/ik-31-bobyk/blob/master/lab_2/image/1.PNG) ![alt text](https://github.com/yuriybobyk/ik-31-bobyk/blob/master/lab_2/image/2.PNG)
 8. Переношу результати виконання тестів та результат виконання програми  у файл results.txt , використовуючи команди `pytest tests/tests.py > results.txt` та `python app.py >> results.txt.
 9. Створюю Makefile, та заповнюю його для автоматизації процесу CI проекту.
+10. Комічу Makefile. Колоную git репозиторій на віртуальну машину, та запускаю Makefile.
    
 
