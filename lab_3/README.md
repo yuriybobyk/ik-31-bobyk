@@ -2,4 +2,4 @@
 
 # Progress:
 1. Створюю папку лабораторної роботи у власному репозиторію. Ініціалізовую середовище pipenv командою `pipenv --python 3.7` .Встановлюю пакети Django, використовуючи команду `pipenv install django` .
-2. Використовуючи Django framework , за допомогою команди `pipenv run django-admin startproject Bobyk_site` створюю заготовку проекту. Виношу всі файли на рівень вище для зручності:10. Комічу Makefile. Колоную git репозиторій на віртуальну машину, та запускаю Makefile:![alt text](https://github.com/yuriybobyk/ik-31-bobyk/blob/master/lab_3/img/1.PNG)
+2. Використовуючи Django framework , за допомогою команди `pipenv run django-admin startproject Bobyk_site` створюю заготовку проекту. Виношу всі файли на рівень вище для зручності:![alt text](https://github.com/yuriybobyk/ik-31-bobyk/blob/master/lab_3/img/1.PNG)
