@@ -1,0 +1,93 @@
+INFO 2019-11-13 17:04:59,509 root : Сервер доступний. Час на сервері: 2019-11-13T17:04:59.506
+INFO 2019-11-13 17:04:59,509 root : Запитувана сторінка: : /health/
+INFO 2019-11-13 17:04:59,509 root : Відповідь сервера місти наступні поля:
+INFO 2019-11-13 17:04:59,509 root : Ключ: date, Значення: 2019-11-13T17:04:59.506
+INFO 2019-11-13 17:04:59,509 root : Ключ: current_page, Значення: /health/
+INFO 2019-11-13 17:04:59,509 root : Ключ: server_info, Значення: {'system': 'Windows', 'version': '10.0.17763', 'release': '10', 'network name': 'DESKTOP-IMVG302', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 42 Stepping 7, GenuineIntel'}
+INFO 2019-11-13 17:04:59,510 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-11-13 17:06:00,523 root : Сервер доступний. Час на сервері: 2019-11-13T17:06:00.522
+INFO 2019-11-13 17:06:00,523 root : Запитувана сторінка: : /health/
+INFO 2019-11-13 17:06:00,523 root : Відповідь сервера місти наступні поля:
+INFO 2019-11-13 17:06:00,523 root : Ключ: date, Значення: 2019-11-13T17:06:00.522
+INFO 2019-11-13 17:06:00,524 root : Ключ: current_page, Значення: /health/
+INFO 2019-11-13 17:06:00,524 root : Ключ: server_info, Значення: {'system': 'Windows', 'version': '10.0.17763', 'release': '10', 'network name': 'DESKTOP-IMVG302', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 42 Stepping 7, GenuineIntel'}
+INFO 2019-11-13 17:06:00,524 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-11-13 17:07:01,536 root : Сервер доступний. Час на сервері: 2019-11-13T17:07:01.535
+INFO 2019-11-13 17:07:01,536 root : Запитувана сторінка: : /health/
+INFO 2019-11-13 17:07:01,536 root : Відповідь сервера місти наступні поля:
+INFO 2019-11-13 17:07:01,536 root : Ключ: date, Значення: 2019-11-13T17:07:01.535
+INFO 2019-11-13 17:07:01,537 root : Ключ: current_page, Значення: /health/
+INFO 2019-11-13 17:07:01,537 root : Ключ: server_info, Значення: {'system': 'Windows', 'version': '10.0.17763', 'release': '10', 'network name': 'DESKTOP-IMVG302', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 42 Stepping 7, GenuineIntel'}
+INFO 2019-11-13 17:07:01,537 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-11-13 17:08:02,556 root : Сервер доступний. Час на сервері: 2019-11-13T17:08:02.554
+INFO 2019-11-13 17:08:02,556 root : Запитувана сторінка: : /health/
+INFO 2019-11-13 17:08:02,556 root : Відповідь сервера місти наступні поля:
+INFO 2019-11-13 17:08:02,556 root : Ключ: date, Значення: 2019-11-13T17:08:02.554
+INFO 2019-11-13 17:08:02,556 root : Ключ: current_page, Значення: /health/
+INFO 2019-11-13 17:08:02,556 root : Ключ: server_info, Значення: {'system': 'Windows', 'version': '10.0.17763', 'release': '10', 'network name': 'DESKTOP-IMVG302', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 42 Stepping 7, GenuineIntel'}
+INFO 2019-11-13 17:08:02,556 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-11-13 17:09:03,571 root : Сервер доступний. Час на сервері: 2019-11-13T17:09:03.570
+INFO 2019-11-13 17:09:03,571 root : Запитувана сторінка: : /health/
+INFO 2019-11-13 17:09:03,571 root : Відповідь сервера місти наступні поля:
+INFO 2019-11-13 17:09:03,571 root : Ключ: date, Значення: 2019-11-13T17:09:03.570
+INFO 2019-11-13 17:09:03,571 root : Ключ: current_page, Значення: /health/
+INFO 2019-11-13 17:09:03,571 root : Ключ: server_info, Значення: {'system': 'Windows', 'version': '10.0.17763', 'release': '10', 'network name': 'DESKTOP-IMVG302', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 42 Stepping 7, GenuineIntel'}
+INFO 2019-11-13 17:09:03,571 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-11-13 17:10:04,583 root : Сервер доступний. Час на сервері: 2019-11-13T17:10:04.582
+INFO 2019-11-13 17:10:04,584 root : Запитувана сторінка: : /health/
+INFO 2019-11-13 17:10:04,584 root : Відповідь сервера місти наступні поля:
+INFO 2019-11-13 17:10:04,584 root : Ключ: date, Значення: 2019-11-13T17:10:04.582
+INFO 2019-11-13 17:10:04,584 root : Ключ: current_page, Значення: /health/
+INFO 2019-11-13 17:10:04,584 root : Ключ: server_info, Значення: {'system': 'Windows', 'version': '10.0.17763', 'release': '10', 'network name': 'DESKTOP-IMVG302', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 42 Stepping 7, GenuineIntel'}
+INFO 2019-11-13 17:10:04,584 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-11-13 17:11:05,596 root : Сервер доступний. Час на сервері: 2019-11-13T17:11:05.594
+INFO 2019-11-13 17:11:05,596 root : Запитувана сторінка: : /health/
+INFO 2019-11-13 17:11:05,596 root : Відповідь сервера місти наступні поля:
+INFO 2019-11-13 17:11:05,596 root : Ключ: date, Значення: 2019-11-13T17:11:05.594
+INFO 2019-11-13 17:11:05,596 root : Ключ: current_page, Значення: /health/
+INFO 2019-11-13 17:11:05,596 root : Ключ: server_info, Значення: {'system': 'Windows', 'version': '10.0.17763', 'release': '10', 'network name': 'DESKTOP-IMVG302', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 42 Stepping 7, GenuineIntel'}
+INFO 2019-11-13 17:11:05,597 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-11-13 17:12:06,626 root : Сервер доступний. Час на сервері: 2019-11-13T17:12:06.624
+INFO 2019-11-13 17:12:06,626 root : Запитувана сторінка: : /health/
+INFO 2019-11-13 17:12:06,627 root : Відповідь сервера місти наступні поля:
+INFO 2019-11-13 17:12:06,627 root : Ключ: date, Значення: 2019-11-13T17:12:06.624
+INFO 2019-11-13 17:12:06,627 root : Ключ: current_page, Значення: /health/
+INFO 2019-11-13 17:12:06,627 root : Ключ: server_info, Значення: {'system': 'Windows', 'version': '10.0.17763', 'release': '10', 'network name': 'DESKTOP-IMVG302', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 42 Stepping 7, GenuineIntel'}
+INFO 2019-11-13 17:12:06,627 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-11-13 17:13:07,640 root : Сервер доступний. Час на сервері: 2019-11-13T17:13:07.638
+INFO 2019-11-13 17:13:07,640 root : Запитувана сторінка: : /health/
+INFO 2019-11-13 17:13:07,640 root : Відповідь сервера місти наступні поля:
+INFO 2019-11-13 17:13:07,640 root : Ключ: date, Значення: 2019-11-13T17:13:07.638
+INFO 2019-11-13 17:13:07,640 root : Ключ: current_page, Значення: /health/
+INFO 2019-11-13 17:13:07,640 root : Ключ: server_info, Значення: {'system': 'Windows', 'version': '10.0.17763', 'release': '10', 'network name': 'DESKTOP-IMVG302', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 42 Stepping 7, GenuineIntel'}
+INFO 2019-11-13 17:13:07,640 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-11-13 17:14:08,652 root : Сервер доступний. Час на сервері: 2019-11-13T17:14:08.650
+INFO 2019-11-13 17:14:08,652 root : Запитувана сторінка: : /health/
+INFO 2019-11-13 17:14:08,652 root : Відповідь сервера місти наступні поля:
+INFO 2019-11-13 17:14:08,652 root : Ключ: date, Значення: 2019-11-13T17:14:08.650
+INFO 2019-11-13 17:14:08,652 root : Ключ: current_page, Значення: /health/
+INFO 2019-11-13 17:14:08,652 root : Ключ: server_info, Значення: {'system': 'Windows', 'version': '10.0.17763', 'release': '10', 'network name': 'DESKTOP-IMVG302', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 42 Stepping 7, GenuineIntel'}
+INFO 2019-11-13 17:14:08,652 root : Ключ: client_info, Значення: python-requests/2.22.0
+ERROR 2019-11-13 17:15:10,662 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0358FF30>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение'))
+ERROR 2019-11-13 17:16:12,668 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0359C3B0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение'))
+INFO 2019-11-13 17:17:13,684 root : Сервер доступний. Час на сервері: 2019-11-13T17:17:13.683
+INFO 2019-11-13 17:17:13,684 root : Запитувана сторінка: : /health/
+INFO 2019-11-13 17:17:13,684 root : Відповідь сервера місти наступні поля:
+INFO 2019-11-13 17:17:13,685 root : Ключ: date, Значення: 2019-11-13T17:17:13.683
+INFO 2019-11-13 17:17:13,685 root : Ключ: current_page, Значення: /health/
+INFO 2019-11-13 17:17:13,685 root : Ключ: server_info, Значення: {'system': 'Windows', 'version': '10.0.17763', 'release': '10', 'network name': 'DESKTOP-IMVG302', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 42 Stepping 7, GenuineIntel'}
+INFO 2019-11-13 17:17:13,685 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-11-13 17:18:14,699 root : Сервер доступний. Час на сервері: 2019-11-13T17:18:14.698
+INFO 2019-11-13 17:18:14,699 root : Запитувана сторінка: : /health/
+INFO 2019-11-13 17:18:14,700 root : Відповідь сервера місти наступні поля:
+INFO 2019-11-13 17:18:14,700 root : Ключ: date, Значення: 2019-11-13T17:18:14.698
+INFO 2019-11-13 17:18:14,700 root : Ключ: current_page, Значення: /health/
+INFO 2019-11-13 17:18:14,700 root : Ключ: server_info, Значення: {'system': 'Windows', 'version': '10.0.17763', 'release': '10', 'network name': 'DESKTOP-IMVG302', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 42 Stepping 7, GenuineIntel'}
+INFO 2019-11-13 17:18:14,700 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-11-13 17:19:15,722 root : Сервер доступний. Час на сервері: 2019-11-13T17:19:15.721
+INFO 2019-11-13 17:19:15,722 root : Запитувана сторінка: : /health/
+INFO 2019-11-13 17:19:15,723 root : Відповідь сервера місти наступні поля:
+INFO 2019-11-13 17:19:15,723 root : Ключ: date, Значення: 2019-11-13T17:19:15.721
+INFO 2019-11-13 17:19:15,723 root : Ключ: current_page, Значення: /health/
+INFO 2019-11-13 17:19:15,723 root : Ключ: server_info, Значення: {'system': 'Windows', 'version': '10.0.17763', 'release': '10', 'network name': 'DESKTOP-IMVG302', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 42 Stepping 7, GenuineIntel'}
+INFO 2019-11-13 17:19:15,723 root : Ключ: client_info, Значення: python-requests/2.22.0
