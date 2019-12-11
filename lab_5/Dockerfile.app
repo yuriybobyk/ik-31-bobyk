@@ -17,6 +17,7 @@ RUN pipenv install -r requirements.txt
 COPY my_app/ ./
 
 # Створюємо папку для логів
+RUN rm -rf logs
 RUN mkdir logs
 
 EXPOSE 5000
