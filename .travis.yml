@@ -27,7 +27,7 @@ jobs:
       install:
         - cd ./lab_4/
       script:
-        - docker build -t yuriybobyk/lab_4:django-travis -f Dockerfile.
+        - docker build -t yuriybobyk/lab_4:django-travis -f Dockerfile .
         - docker images
         - if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin; docker push yuriybobyk/lab_4:django-travis; else echo "PR skip deploy"; fi
         - docker build -t yuriybobyk/lab_4:monitoring-travis -f Dockerfile.site .
